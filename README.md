@@ -49,3 +49,5 @@ my-theme/
 4. Open browser:
    "http://localhost/wordpress"
 
+
+
